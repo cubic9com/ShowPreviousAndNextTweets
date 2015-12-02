@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Show previous or next tweets plugin for twicca</string>
+    <string name="info_could_find_official_app">This tweet is posted more than %1$d days ago. This plugin try to search by official Twitter app.</string>
+    <string name="info_could_not_find_official_app">This tweet is posted more than %1$d days ago. This plugin tried to search by official Twitter app. But could not find app.</string>
+</resources>
